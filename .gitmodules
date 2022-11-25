@@ -1,3 +1,6 @@
 [submodule "themes/archie"] 
-  path = themes/archie
-  url = https://github.com/placidmoon1/archie.git
+	path = themes/archie
+	url = https://github.com/placidmoon1/archie
+[submodule "archie"]
+	path = archie
+	url = https://github.com/placidmoon1/archie
