@@ -17,3 +17,9 @@ Now, he wants to do more. Through convergence of technology and education, he pl
 * **2020, 2019 World-Friends ICT Volunteers Outstanding Team Grand Prize** by NIA.
 * **2019 KAIST Global Leader Award in Volunteering** by KAIST.
 * Taught on behalf of numerous organizations, including **Naver, LG, Samsung SDS, Etoos, NIA, KIV, KAIST, Yonsei University**, and many more. 
+
+## Contact
+
+Github: [placidmoon1](https://github.com/placidmoon1)
+
+Email: [placidmoon1@gmail.com](mailto:placidmoon1@gmail.com)
