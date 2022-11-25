@@ -7,4 +7,4 @@ tags: ["diary"]
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+Starting this blog :)
