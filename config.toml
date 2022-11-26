@@ -10,7 +10,7 @@ paginate=10 # articles per page
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-disqusShortname = 'guhongmin'
+disqusShortname = 'guhong'
 
 
 [params]
