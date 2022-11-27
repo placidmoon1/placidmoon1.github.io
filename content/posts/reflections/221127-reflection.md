@@ -1,7 +1,7 @@
 ---
 title: "[221127] [Reflection] ANTIFRAGILE"
 description: "Establishing a foundation"
-date: 2022-11-26T06:56:12+09:00
+date: 2022-11-27T10:00:00+09:00
 draft: false
 toc: true
 tldr: "Today was a foundation-establishment day, primarily studying"
