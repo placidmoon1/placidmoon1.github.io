@@ -12,7 +12,7 @@ tags: ["reflection"]
 
 >   더 높이 가줄게 \
     내가 바랐던 세계 젤 위에 (ah-ah) \
-    떨어져도 돼 \ 
+    떨어져도 돼 \
     I'm anti-fragile, anti-fragile (ah-ah) \
     - 르세라핌의 "ANTIFRAGILE" 중
 
