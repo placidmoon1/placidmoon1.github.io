@@ -8,7 +8,7 @@ tldr: "Today was a day where I succumbed to guilty pleasures."
 tags: ["reflection"]
 ---
 
-## Todays Goal
+## Today's Goal
 1. Do More Job Applications plz.. 
 2. [-] CFA Ch. 2
 3. [O] Watch movie with Tobin
